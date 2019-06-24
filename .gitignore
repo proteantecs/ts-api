@@ -15,3 +15,7 @@
 
 # IntelliJ
 /out/
+
+### Gradle template
+.gradle
+**/build/
