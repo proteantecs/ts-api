@@ -14,9 +14,6 @@
 
 package com.tableau.generated.api;
 
-import com.proteantecs.services.bi.tableau.generated.DomainDirectiveType;
-import com.proteantecs.services.bi.tableau.generated.SiteRoleType;
-import com.proteantecs.services.bi.tableau.generated.SiteUserAuthSettingType;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlAttribute;

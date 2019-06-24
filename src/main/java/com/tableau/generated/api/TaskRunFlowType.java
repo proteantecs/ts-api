@@ -14,8 +14,6 @@
 
 package com.tableau.generated.api;
 
-import com.proteantecs.services.bi.tableau.generated.FlowType;
-import com.proteantecs.services.bi.tableau.generated.ScheduleType;
 import java.math.BigInteger;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;

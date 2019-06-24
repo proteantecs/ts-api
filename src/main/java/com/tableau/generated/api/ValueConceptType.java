@@ -14,8 +14,6 @@
 
 package com.tableau.generated.api;
 
-import com.proteantecs.services.bi.tableau.generated.NameCharacteristicsType;
-import com.proteantecs.services.bi.tableau.generated.NameType;
 import java.util.ArrayList;
 import java.util.List;
 import javax.xml.bind.annotation.XmlAccessType;

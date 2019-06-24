@@ -17,5 +17,4 @@
 /out/
 
 ### Gradle template
-.gradle
-**/build/
+target/
